@@ -1,0 +1,1 @@
+print('my module is loaded')

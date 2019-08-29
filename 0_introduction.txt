@@ -1,0 +1,6 @@
+High-level, general purpose
+Paradigms: Object oriented (procedural, functional)
+~Interpreted
+Use-case: Fast prototyping, Scripting, AI, ... (Django)
+Python 2 & 3
+Cross-platform
